@@ -1,8 +1,8 @@
 package deezer_test
 
 import (
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/deezer"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/deezer"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

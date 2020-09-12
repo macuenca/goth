@@ -1,8 +1,8 @@
 package salesforce_test
 
 import (
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/salesforce"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/salesforce"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

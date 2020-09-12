@@ -1,8 +1,8 @@
 package cloudfoundry_test
 
 import (
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/cloudfoundry"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/cloudfoundry"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

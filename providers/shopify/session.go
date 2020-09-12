@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2"
 )
 
 const (

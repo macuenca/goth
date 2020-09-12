@@ -8,7 +8,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2"
 	"golang.org/x/oauth2"
 
 	"fmt"

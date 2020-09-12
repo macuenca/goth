@@ -1,8 +1,8 @@
 package paypal_test
 
 import (
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/paypal"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/paypal"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

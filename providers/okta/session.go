@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2"
 )
 
 // Session stores data during the auth process with Okta.

@@ -1,4 +1,4 @@
-module github.com/macuenca/goth
+module github.com/macuenca/goth/v2/v2
 
 go 1.14
 

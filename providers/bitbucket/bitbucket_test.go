@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/bitbucket"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/bitbucket"
 	"github.com/stretchr/testify/assert"
 )
 

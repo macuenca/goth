@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2"
 	"golang.org/x/oauth2"
 )
 

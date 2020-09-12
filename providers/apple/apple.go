@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2"
 	"golang.org/x/oauth2"
 )
 

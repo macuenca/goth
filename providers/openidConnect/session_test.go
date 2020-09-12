@@ -1,7 +1,7 @@
 package openidConnect
 
 import (
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

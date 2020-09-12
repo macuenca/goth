@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/kakao"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/kakao"
 	"github.com/stretchr/testify/assert"
 )
 

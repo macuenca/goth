@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/microsoftonline"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/microsoftonline"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package azuread_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/azuread"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/azuread"
 	"github.com/stretchr/testify/assert"
 )
 

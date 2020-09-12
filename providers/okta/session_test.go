@@ -1,8 +1,8 @@
 package okta_test
 
 import (
-	"github.com/macuenca/goth/providers/okta"
-	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/v2/providers/okta"
+	"github.com/macuenca/goth/v2"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

@@ -1,8 +1,8 @@
 package seatalk_test
 
 import (
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/seatalk"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/seatalk"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

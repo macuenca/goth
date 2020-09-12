@@ -1,8 +1,8 @@
 package soundcloud_test
 
 import (
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/soundcloud"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/soundcloud"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

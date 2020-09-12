@@ -1,4 +1,4 @@
-# Goth: Multi-Provider Authentication for Go [![GoDoc](https://godoc.org/github.com/macuenca/goth?status.svg)](https://godoc.org/github.com/macuenca/goth) [![Build Status](https://travis-ci.org/markbates/goth.svg)](https://travis-ci.org/markbates/goth) [![Go Report Card](https://goreportcard.com/badge/github.com/macuenca/goth)](https://goreportcard.com/report/github.com/macuenca/goth)
+# Goth: Multi-Provider Authentication for Go [![GoDoc](https://godoc.org/github.com/macuenca/goth/v2?status.svg)](https://godoc.org/github.com/macuenca/goth/v2) [![Build Status](https://travis-ci.org/markbates/goth.svg)](https://travis-ci.org/markbates/goth) [![Go Report Card](https://goreportcard.com/badge/github.com/macuenca/goth/v2)](https://goreportcard.com/report/github.com/macuenca/goth/v2)
 
 Package goth provides a simple, clean, and idiomatic way to write authentication
 packages for Go web applications.
@@ -11,7 +11,7 @@ This package was inspired by [https://github.com/intridea/omniauth](https://gith
 ## Installation
 
 ```text
-$ go get github.com/macuenca/goth
+$ go get github.com/macuenca/goth/v2
 ```
 
 ## Supported Providers
@@ -85,7 +85,7 @@ $ git clone git@github.com:markbates/goth.git
 ```
 or use
 ```text
-$ go get github.com/macuenca/goth
+$ go get github.com/macuenca/goth/v2
 ```
 ```text
 $ cd goth/examples

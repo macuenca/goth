@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/strava"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/strava"
 	"github.com/stretchr/testify/assert"
 )
 

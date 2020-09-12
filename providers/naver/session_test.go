@@ -3,8 +3,8 @@ package naver_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth"
-	"github.com/macuenca/goth/providers/naver"
+	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v2/providers/naver"
 	"github.com/stretchr/testify/assert"
 )
 
