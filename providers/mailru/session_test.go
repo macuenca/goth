@@ -3,8 +3,8 @@ package mailru_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/mailru"
+	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/providers/mailru"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package strava_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/strava"
+	"github.com/macuenca/goth"
+	"github.com/macuenca/goth/providers/strava"
 	"github.com/stretchr/testify/assert"
 )
 
