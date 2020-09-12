@@ -3,8 +3,8 @@ package google_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/google"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/google"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package instagram_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/instagram"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/instagram"
 	"github.com/stretchr/testify/assert"
 )
 

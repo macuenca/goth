@@ -1,8 +1,8 @@
 package yammer_test
 
 import (
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/yammer"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/yammer"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

@@ -3,8 +3,8 @@ package xero_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/xero"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/xero"
 	"github.com/stretchr/testify/assert"
 )
 

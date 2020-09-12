@@ -1,8 +1,8 @@
 package amazon_test
 
 import (
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/amazon"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/amazon"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

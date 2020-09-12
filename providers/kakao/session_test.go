@@ -3,8 +3,8 @@ package kakao_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/line"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/line"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package vk_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/vk"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/vk"
 	"github.com/stretchr/testify/assert"
 )
 

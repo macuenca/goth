@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v3"
 )
 
 // Session stores data during the auth process with Gitea.

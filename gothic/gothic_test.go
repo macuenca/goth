@@ -13,9 +13,9 @@ import (
 	"testing"
 
 	"github.com/gorilla/sessions"
-	"github.com/macuenca/goth/v2"
-	. "github.com/macuenca/goth/v2/gothic"
-	"github.com/macuenca/goth/v2/providers/faux"
+	"github.com/macuenca/goth/v3"
+	. "github.com/macuenca/goth/v3/gothic"
+	"github.com/macuenca/goth/v3/providers/faux"
 	"github.com/stretchr/testify/assert"
 )
 

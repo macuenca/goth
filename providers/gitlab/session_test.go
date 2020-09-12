@@ -1,8 +1,8 @@
 package gitlab_test
 
 import (
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/gitlab"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/gitlab"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

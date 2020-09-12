@@ -3,8 +3,8 @@ package spotify_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/spotify"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/spotify"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,8 +1,8 @@
 package stripe_test
 
 import (
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/stripe"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/stripe"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

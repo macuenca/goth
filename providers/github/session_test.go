@@ -3,8 +3,8 @@ package github_test
 import (
 	"testing"
 
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/github"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/github"
 	"github.com/stretchr/testify/assert"
 )
 

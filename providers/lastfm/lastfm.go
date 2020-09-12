@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"sort"
 
-	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v3"
 	"golang.org/x/oauth2"
 )
 

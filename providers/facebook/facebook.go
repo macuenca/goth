@@ -16,7 +16,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/macuenca/goth/v2"
+	"github.com/macuenca/goth/v3"
 	"golang.org/x/oauth2"
 )
 
@@ -103,7 +103,7 @@ func (p *Provider) FetchUser(session goth.Session) (goth.User, error) {
 	}
 
 	// always add appsecretProof to make calls more protected
-	// https://github.com/macuenca/goth/v2/issues/96
+	// https://github.com/macuenca/goth/v3/issues/96
 	// https://developers.facebook.com/docs/graph-api/securing-requests
 	hash := hmac.New(sha256.New, []byte(p.Secret))
 	hash.Write([]byte(sess.AccessToken))

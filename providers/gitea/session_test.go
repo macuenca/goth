@@ -1,8 +1,8 @@
 package gitea_test
 
 import (
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/gitea"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/gitea"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

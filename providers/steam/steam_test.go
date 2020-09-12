@@ -1,8 +1,8 @@
 package steam_test
 
 import (
-	"github.com/macuenca/goth/v2"
-	"github.com/macuenca/goth/v2/providers/steam"
+	"github.com/macuenca/goth/v3"
+	"github.com/macuenca/goth/v3/providers/steam"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"
